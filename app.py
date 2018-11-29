@@ -16,7 +16,7 @@ def PredictCaseCategory(query):
 
 """the above code can be used when your category label is in vector form
  #        categoryName=['ABSENCES',
- # 'AVANTAGES SOCIETE GENERALE',
+ # 'AVANTAGES',
  # "DEPART DE L'ENTREPRISE",
  # 'DONNEES PERSONNELLES',
  # 'FORMATION',
