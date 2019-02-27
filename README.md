@@ -18,9 +18,6 @@ Connexion Package
 
 Note:Using Anaconda will bring you almost every python packages for datascience projects
 
-### Dataset
-
-Can find document split data in dropbox or Kaggle as mentioned in technical doc in R&D directory
 
 ### Curl Request
 
